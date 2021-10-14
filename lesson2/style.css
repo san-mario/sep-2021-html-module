@@ -5,6 +5,7 @@ body {
 
 .wallpaper {
     border: 5px solid black;
+    border-radius: 70px 5px 70px 5px;
     margin-left: 600px;
 }
 
