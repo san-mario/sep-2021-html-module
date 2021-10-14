@@ -1,0 +1,39 @@
+.wallpaper {
+    border: 5px solid black;
+    margin-left: 600px;
+}
+
+body {
+    background: aquamarine;
+
+}
+
+p {
+    /*color: #f80000;*/
+    /*background: red;*/
+
+}
+
+.heroes {
+    padding-left: 40px;
+
+}
+
+.luigipic {
+    padding-left: 700px;
+
+}
+
+.luigitext {
+   color: forestgreen;
+
+}
+
+.bowserpic {
+    padding-left: 120px;
+
+}
+
+.bowsertext {
+   color: #ff3909;
+}
