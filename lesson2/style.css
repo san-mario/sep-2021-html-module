@@ -1,11 +1,11 @@
-.wallpaper {
-    border: 5px solid black;
-    margin-left: 600px;
-}
-
 body {
     background: aquamarine;
 
+}
+
+.wallpaper {
+    border: 5px solid black;
+    margin-left: 600px;
 }
 
 p {
