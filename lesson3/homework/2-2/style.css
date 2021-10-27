@@ -1,0 +1,50 @@
+.container {
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: auto;
+}
+
+.header {
+
+    flex-basis: 300px;
+    background-color: blue;
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+
+    flex-direction: row;
+    column-gap: 15px;
+    margin-top: 20px;
+}
+
+.content_left {
+    background-color: lightblue;
+    width: 33.33%;
+    height: 150px;
+}
+
+.content_center {
+    background-color: lightblue;
+    width: 33.33%;
+    height: 150px;
+
+}
+
+.content_right {
+    background-color: lightblue;
+    width: 33.33%;
+    height: 150px;
+
+}
+
+.footer {
+    flex-basis: 500px;
+    background-color: blue;
+    margin-top: 20px;
+}
